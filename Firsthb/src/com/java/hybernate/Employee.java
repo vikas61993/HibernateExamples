@@ -2,7 +2,9 @@ package com.java.hybernate;
 
 public class Employee {
 	private int id;  
+	
 	private String firstName,lastName;  
+	private String Vikas;
 	  
 	public int getId() {  
 	    return id;  
